@@ -66,7 +66,7 @@ public class LaunchActivity extends AppCompatActivity {
             @Override
             public void onComplete(Boolean success) {
                 Log.d(TAG, "~~~~~~~onComplete~~~~~~~~~");
-                Small.openUri("pluginc", LaunchActivity.this);
+                Small.openUri("main", LaunchActivity.this);
                 Log.d(TAG, "~~~~~~~onComplete~  end~~~~~~~~");
 
             }
