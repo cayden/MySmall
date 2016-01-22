@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.example.mysmall.app.main"
+    },
+    {
+      "uri": "demo",
+      "pkg": "com.example.mysmall.app.demo"
+    },
+    {
+      "uri": "pluginc",
+      "pkg": "com.cayden.pluginc"
+    }
+
+  ]
+}
